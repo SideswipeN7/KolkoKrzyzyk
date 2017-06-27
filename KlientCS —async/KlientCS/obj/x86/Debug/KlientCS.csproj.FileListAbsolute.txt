@@ -1,0 +1,48 @@
+C:\Users\User\Desktop\KlientCS\KlientCS\bin\Debug\KlientCS.exe
+C:\Users\User\Desktop\KlientCS\KlientCS\bin\Debug\KlientCS.pdb
+C:\Users\User\Desktop\KlientCS\KlientCS\obj\x86\Debug\KlientCS.Form1.resources
+C:\Users\User\Desktop\KlientCS\KlientCS\obj\x86\Debug\KlientCS.Properties.Resources.resources
+C:\Users\User\Desktop\KlientCS\KlientCS\obj\x86\Debug\KlientCS.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\KlientCS\KlientCS\obj\x86\Debug\KlientCS.exe
+C:\Users\User\Desktop\KlientCS\KlientCS\obj\x86\Debug\KlientCS.pdb
+C:\Users\super\Desktop\KlientCS\KlientCS\obj\x86\Debug\KlientCS.exe
+C:\Users\super\Desktop\KlientCS\KlientCS\obj\x86\Debug\KlientCS.pdb
+C:\Users\super\Desktop\KlientCS\KlientCS\bin\Debug\KlientCS.exe
+C:\Users\super\Desktop\KlientCS\KlientCS\bin\Debug\KlientCS.pdb
+C:\Users\super\Desktop\KlientCS\KlientCS\obj\x86\Debug\KlientCS.Form1.resources
+C:\Users\super\Desktop\KlientCS\KlientCS\obj\x86\Debug\KlientCS.Properties.Resources.resources
+C:\Users\super\Desktop\KlientCS\KlientCS\obj\x86\Debug\KlientCS.csproj.GenerateResource.Cache
+C:\Users\super\Desktop\KlientCS\KlientCS\obj\x86\Debug\KlientCS.csprojResolveAssemblyReference.cache
+C:\Users\super\Desktop\KlientCS — kopia\KlientCS\obj\x86\Debug\KlientCS.exe
+C:\Users\super\Desktop\KlientCS — kopia\KlientCS\obj\x86\Debug\KlientCS.pdb
+C:\Users\super\Desktop\KlientCS — kopia\KlientCS\bin\Debug\KlientCS.exe
+C:\Users\super\Desktop\KlientCS — kopia\KlientCS\bin\Debug\KlientCS.pdb
+C:\Users\super\Desktop\KlientCS — kopia\KlientCS\obj\x86\Debug\KlientCS.csprojResolveAssemblyReference.cache
+C:\Users\super\Desktop\KlientCS — kopia\KlientCS\obj\x86\Debug\KlientCS.Form1.resources
+C:\Users\super\Desktop\KlientCS — kopia\KlientCS\obj\x86\Debug\KlientCS.Form2.resources
+C:\Users\super\Desktop\KlientCS — kopia\KlientCS\obj\x86\Debug\KlientCS.Properties.Resources.resources
+C:\Users\super\Desktop\KlientCS — kopia\KlientCS\obj\x86\Debug\KlientCS.csproj.GenerateResource.Cache
+C:\Users\super\Desktop\KlientCS —async\KlientCS\obj\x86\Debug\KlientCS.exe
+C:\Users\super\Desktop\KlientCS —async\KlientCS\obj\x86\Debug\KlientCS.pdb
+C:\Users\super\Desktop\KlientCS —async\KlientCS\bin\Debug\KlientCS.exe
+C:\Users\super\Desktop\KlientCS —async\KlientCS\bin\Debug\KlientCS.pdb
+C:\Users\super\Desktop\KlientCS —async\KlientCS\obj\x86\Debug\KlientCS.csprojResolveAssemblyReference.cache
+C:\Users\super\Desktop\KlientCS —async\KlientCS\obj\x86\Debug\KlientCS.Form1.resources
+C:\Users\super\Desktop\KlientCS —async\KlientCS\obj\x86\Debug\KlientCS.Properties.Resources.resources
+C:\Users\super\Desktop\KlientCS —async\KlientCS\obj\x86\Debug\KlientCS.csproj.GenerateResource.Cache
+C:\Users\super\Desktop\C Projekt\KlientCS —async\KlientCS\obj\x86\Debug\KlientCS.exe
+C:\Users\super\Desktop\C Projekt\KlientCS —async\KlientCS\obj\x86\Debug\KlientCS.pdb
+C:\Users\super\Desktop\C Projekt\KlientCS —async\KlientCS\bin\Debug\KlientCS.exe
+C:\Users\super\Desktop\C Projekt\KlientCS —async\KlientCS\bin\Debug\KlientCS.pdb
+C:\Users\super\Desktop\C Projekt\KlientCS —async\KlientCS\obj\x86\Debug\KlientCS.csprojResolveAssemblyReference.cache
+C:\Users\super\Desktop\C Projekt\KlientCS —async\KlientCS\obj\x86\Debug\KlientCS.Form1.resources
+C:\Users\super\Desktop\C Projekt\KlientCS —async\KlientCS\obj\x86\Debug\KlientCS.Properties.Resources.resources
+C:\Users\super\Desktop\C Projekt\KlientCS —async\KlientCS\obj\x86\Debug\KlientCS.csproj.GenerateResource.Cache
+F:\POLITECHNIKA\Programowanie\SEMESTR V\C\C Projekt\KlientCS —async\KlientCS\obj\x86\Debug\KlientCS.exe
+F:\POLITECHNIKA\Programowanie\SEMESTR V\C\C Projekt\KlientCS —async\KlientCS\obj\x86\Debug\KlientCS.pdb
+F:\POLITECHNIKA\Programowanie\SEMESTR V\C\C Projekt\KlientCS —async\KlientCS\bin\Debug\KlientCS.exe
+F:\POLITECHNIKA\Programowanie\SEMESTR V\C\C Projekt\KlientCS —async\KlientCS\bin\Debug\KlientCS.pdb
+F:\POLITECHNIKA\Programowanie\SEMESTR V\C\C Projekt\KlientCS —async\KlientCS\obj\x86\Debug\KlientCS.csprojResolveAssemblyReference.cache
+F:\POLITECHNIKA\Programowanie\SEMESTR V\C\C Projekt\KlientCS —async\KlientCS\obj\x86\Debug\KlientCS.Form1.resources
+F:\POLITECHNIKA\Programowanie\SEMESTR V\C\C Projekt\KlientCS —async\KlientCS\obj\x86\Debug\KlientCS.Properties.Resources.resources
+F:\POLITECHNIKA\Programowanie\SEMESTR V\C\C Projekt\KlientCS —async\KlientCS\obj\x86\Debug\KlientCS.csproj.GenerateResource.Cache

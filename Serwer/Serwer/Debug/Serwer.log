@@ -1,0 +1,7 @@
+﻿  gra.cpp
+f:\politechnika\programowanie\semestr v\c\c projekt\serwer\serwer\gra.cpp(132): warning C4551: function call missing argument list
+f:\politechnika\programowanie\semestr v\c\c projekt\serwer\serwer\gra.cpp(239): warning C4551: function call missing argument list
+f:\politechnika\programowanie\semestr v\c\c projekt\serwer\serwer\gra.cpp(290): warning C4551: function call missing argument list
+f:\politechnika\programowanie\semestr v\c\c projekt\serwer\serwer\gra.cpp(43): warning C4715: 'Game::GetPolaczenie': not all control paths return a value
+  Serwer.vcxproj -> F:\POLITECHNIKA\Programowanie\SEMESTR V\C\C Projekt\Serwer\Debug\Serwer.exe
+  Serwer.vcxproj -> F:\POLITECHNIKA\Programowanie\SEMESTR V\C\C Projekt\Serwer\Debug\Serwer.pdb (Full PDB)
